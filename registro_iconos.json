@@ -1,0 +1,32 @@
+{
+    "emulator-5554": {
+        "instagram": {
+            "x": 135,
+            "y": 1087
+        },
+        "facebook": {
+            "x": 335,
+            "y": 777
+        }
+    },
+    "emulator-5556": {
+        "instagram": {
+            "x": 135,
+            "y": 1087
+        },
+        "facebook": {
+            "x": 335,
+            "y": 777
+        }
+    },
+    "emulator-5558": {
+        "instagram": {
+            "x": 135,
+            "y": 1087
+        },
+        "facebook": {
+            "x": 335,
+            "y": 777
+        }
+    }
+}
